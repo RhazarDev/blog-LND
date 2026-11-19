@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blog>
+    <resumen>Bienvenido/a al blog de reviews de videojuegos de Rubén, donde voy a calíficar los diferentes juegos que me vaya pasando. Es importante recalcar que estas reseñas siguen mis opiniones subjetivas.</resumen>
+    <entrada id="E001">
+        <videojuego>
+            <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1785424341</imagen>
+            <titulo>Outer Wilds</titulo>
+            <developer>Mobius Digital</developer>
+            <fecha_lanzamiento>2019</fecha_lanzamiento>
+            <precio moneda="EUR">22.99</precio>
+            <genero>Aventura</genero>
+        </videojuego>
+        <review>
+            <graficos dimensiones="2D">
+                <rubrica>En esta categoría se califíca tanto la calidad gráfica y artistica del juego teniendo en cuenta la intención del desarrollador. Por ejemplo, en caso de que un juego aspire al realismo se evaluará eso, pero si un juego apsira a unos gráficos más artísticos, se evaluará como tal.</rubrica>
+                <imagen-graficos></imagen-graficos>
+                <nota></nota>
+                <critica></critica>
+            </graficos>
+            <gameplay>
+                <rubrica>En esta categoría se califícan cosas como la rejugabilidad del juego y el disfrute que tuve desde el inicio hasta el final, ignorando la historia y sus gráficos.</rubrica>
+                <imagen-gameplay></imagen-gameplay>
+                <nota></nota>
+                <critica></critica>
+            </gameplay>
+            <historia>
+                <rubrica>En esta categoría se califíca la narrativa del juego bajo mis gustos.</rubrica>
+                <nota></nota>
+                <critica></critica>
+            </historia>
+            <reseña-general></reseña-general>
+        </review>
+    </entrada>
+    <entrada id="E002">
+        <videojuego>
+            <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1422450/aa249c5e8cc8f90941bd1dbdc311773cd1afe065/header.jpg?t=1790716179</imagen>
+            <titulo>Deadlock</titulo>
+            <developer>Valve</developer>
+            <fecha_lanzamiento>Por confirmarse</fecha_lanzamiento>
+            <precio moneda="USD">Free to play</precio>
+            <genero>MOBA</genero>
+        </videojuego>
+        <review>
+            <graficos dimensiones="2D">
+                <rubrica>En esta categoría se califíca tanto la calidad gráfica y artistica del juego teniendo en cuenta la intención del desarrollador. Por ejemplo, en caso de que un juego aspire al realismo se evaluará eso, pero si un juego apsira a unos gráficos más artísticos, se evaluará como tal.</rubrica>
+                <imagen-graficos></imagen-graficos>
+                <nota></nota>
+                <critica></critica>
+            </graficos>
+            <gameplay>
+                <rubrica>En esta categoría se califícan cosas como la rejugabilidad del juego y el disfrute que tuve desde el inicio hasta el final, ignorando la historia y sus gráficos.</rubrica>
+                <imagen-gameplay></imagen-gameplay>
+                <nota></nota>
+                <critica></critica>
+            </gameplay>
+            <historia>
+                <rubrica>En esta categoría se califíca la narrativa del juego bajo mis gustos.</rubrica>
+                <nota></nota>
+                <critica></critica>
+            </historia>
+            <reseña-general></reseña-general>
+        </review>
+    </entrada>
+    <entrada id="E003">
+        <videojuego>
+            <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961</imagen>
+            <titulo>Red Dead Redemption 2</titulo>
+            <developer>Rockstar</developer>
+            <fecha_lanzamiento>2018</fecha_lanzamiento>
+            <precio moneda="EUR">59.99</precio>
+            <genero>Acción</genero>
+        </videojuego>
+        <review>
+            <graficos dimensiones="2D">
+                <rubrica>En esta categoría se califíca tanto la calidad gráfica y artistica del juego teniendo en cuenta la intención del desarrollador. Por ejemplo, en caso de que un juego aspire al realismo se evaluará eso, pero si un juego apsira a unos gráficos más artísticos, se evaluará como tal.</rubrica>
+                <imagen-graficos></imagen-graficos>
+                <nota></nota>
+                <critica></critica>
+            </graficos>
+            <gameplay>
+                <rubrica>En esta categoría se califícan cosas como la rejugabilidad del juego y el disfrute que tuve desde el inicio hasta el final, ignorando la historia y sus gráficos.</rubrica>
+                <imagen-gameplay></imagen-gameplay>
+                <nota></nota>
+                <critica></critica>
+            </gameplay>
+            <historia>
+                <rubrica>En esta categoría se califíca la narrativa del juego bajo mis gustos.</rubrica>
+                <nota></nota>
+                <critica></critica>
+            </historia>
+            <reseña-general></reseña-general>
+        </review>
+    </entrada>
+    <entrada id="E004">
+        <videojuego>
+            <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684</imagen>
+            <titulo>Hollow Knight</titulo>
+            <developer>Team Cherry</developer>
+            <fecha_lanzamiento>2017</fecha_lanzamiento>
+            <precio moneda="EUR">14.79</precio>
+            <genero>Metroidvania</genero>
+        </videojuego>
+        <review>
+            <graficos dimensiones="2D">
+                <rubrica>En esta categoría se califíca tanto la calidad gráfica y artistica del juego teniendo en cuenta la intención del desarrollador. Por ejemplo, en caso de que un juego aspire al realismo se evaluará eso, pero si un juego apsira a unos gráficos más artísticos, se evaluará como tal.</rubrica>
+                <imagen-graficos></imagen-graficos>
+                <nota></nota>
+                <critica></critica>
+            </graficos>
+            <gameplay>
+                <rubrica>En esta categoría se califícan cosas como la rejugabilidad del juego y el disfrute que tuve desde el inicio hasta el final, ignorando la historia y sus gráficos.</rubrica>
+                <imagen-gameplay></imagen-gameplay>
+                <nota></nota>
+                <critica></critica>
+            </gameplay>
+            <historia>
+                <rubrica>En esta categoría se califíca la narrativa del juego bajo mis gustos.</rubrica>
+                <nota></nota>
+                <critica></critica>
+            </historia>
+            <reseña-general></reseña-general>
+        </review>
+    </entrada>
+    <entrada id="E005">
+        <videojuego>
+            <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2121980/header.jpg?t=1735612860</imagen>
+            <titulo>Void Stranger</titulo>
+            <developer>System Erasure</developer>
+            <fecha_lanzamiento>2023</fecha_lanzamiento>
+            <precio moneda="EUR">11.79</precio>
+            <genero>Puzles</genero>
+        </videojuego>
+        <review>
+            <graficos dimensiones="2D">
+                <rubrica>En esta categoría se califíca tanto la calidad gráfica y artistica del juego teniendo en cuenta la intención del desarrollador. Por ejemplo, en caso de que un juego aspire al realismo se evaluará eso, pero si un juego apsira a unos gráficos más artísticos, se evaluará como tal.</rubrica>
+                <imagen-graficos></imagen-graficos>
+                <nota></nota>
+                <critica></critica>
+            </graficos>
+            <gameplay>
+                <rubrica>En esta categoría se califícan cosas como la rejugabilidad del juego y el disfrute que tuve desde el inicio hasta el final, ignorando la historia y sus gráficos.</rubrica>
+                <imagen-gameplay></imagen-gameplay>
+                <nota></nota>
+                <critica></critica>
+            </gameplay>
+            <historia>
+                <rubrica>En esta categoría se califíca la narrativa del juego bajo mis gustos.</rubrica>
+                <nota></nota>
+                <critica></critica>
+            </historia>
+            <reseña-general></reseña-general>
+        </review>
+    </entrada>
+    <entrada id="E006">
+        <videojuego>
+            <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1785424341</imagen>
+            <titulo>Outer Wilds</titulo>
+            <developer>Mobius Digital</developer>
+            <fecha_lanzamiento>2019</fecha_lanzamiento>
+            <precio moneda="EUR">22.99</precio>
+            <genero>Aventura</genero>
+        </videojuego>
+        <review>
+            <graficos dimensiones="2D">
+                <rubrica>En esta categoría se califíca tanto la calidad gráfica y artistica del juego teniendo en cuenta la intención del desarrollador. Por ejemplo, en caso de que un juego aspire al realismo se evaluará eso, pero si un juego apsira a unos gráficos más artísticos, se evaluará como tal.</rubrica>
+                <imagen-graficos></imagen-graficos>
+                <nota></nota>
+                <critica></critica>
+            </graficos>
+            <gameplay>
+                <rubrica>En esta categoría se califícan cosas como la rejugabilidad del juego y el disfrute que tuve desde el inicio hasta el final, ignorando la historia y sus gráficos.</rubrica>
+                <imagen-gameplay></imagen-gameplay>
+                <nota></nota>
+                <critica></critica>
+            </gameplay>
+            <historia>
+                <rubrica>En esta categoría se califíca la narrativa del juego bajo mis gustos.</rubrica>
+                <nota></nota>
+                <critica></critica>
+            </historia>
+            <reseña-general></reseña-general>
+        </review>
+    </entrada>
+</blog>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<catalogo_videojuegos>
+    <videojuego id="V001">
+        <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1785424341</imagen>
+        <titulo>Outer Wilds</titulo>
+        <developer>Mobius Digital</developer>
+        <fecha_lanzamiento>2019</fecha_lanzamiento>
+        <precio moneda="EUR">22.99</precio>
+        <genero>Aventura</genero>
+    </videojuego>
+    <videojuego id="V002">
+        <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1422450/aa249c5e8cc8f90941bd1dbdc311773cd1afe065/header.jpg?t=1790716179</imagen>
+        <titulo>Deadlock</titulo>
+        <developer>Valve</developer>
+        <fecha_lanzamiento>Por confirmarse</fecha_lanzamiento>
+        <precio moneda="USD">Free to play</precio>
+        <genero>MOBA</genero>
+    </videojuego>
+    <videojuego id="V003">
+        <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961</imagen>
+        <titulo>Red Dead Redemption 2</titulo>
+        <developer>Rockstar</developer>
+        <fecha_lanzamiento>2018</fecha_lanzamiento>
+        <precio moneda="EUR">59.99</precio>
+        <genero>Acción</genero>
+    </videojuego>
+    <videojuego id="V004">
+        <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684</imagen>
+        <titulo>Hollow Knight</titulo>
+        <developer>Team Cherry</developer>
+        <fecha_lanzamiento>2017</fecha_lanzamiento>
+        <precio moneda="EUR">14.79</precio>
+        <genero>Metroidvania</genero>
+    </videojuego>
+    <videojuego id="V005">
+        <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2121980/header.jpg?t=1735612860</imagen>
+        <titulo>Void Stranger</titulo>
+        <developer>System Erasure</developer>
+        <fecha_lanzamiento>2023</fecha_lanzamiento>
+        <precio moneda="EUR">11.79</precio>
+        <genero>Puzles</genero>
+    </videojuego>
+</catalogo_videojuegos>
+-->
