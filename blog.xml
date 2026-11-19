@@ -14,21 +14,22 @@
             <graficos dimensiones="2D">
                 <rubrica>En esta categoría se califíca tanto la calidad gráfica y artistica del juego teniendo en cuenta la intención del desarrollador. Por ejemplo, en caso de que un juego aspire al realismo se evaluará eso, pero si un juego apsira a unos gráficos más artísticos, se evaluará como tal.</rubrica>
                 <imagen-graficos></imagen-graficos>
-                <nota></nota>
-                <critica></critica>
+                <nota>8/10</nota>
+                <critica>El juego tiene un apartado artístico increíble, pero los gráficos dejan algo que desear.</critica>
             </graficos>
             <gameplay>
                 <rubrica>En esta categoría se califícan cosas como la rejugabilidad del juego y el disfrute que tuve desde el inicio hasta el final, ignorando la historia y sus gráficos.</rubrica>
                 <imagen-gameplay></imagen-gameplay>
-                <nota></nota>
-                <critica></critica>
+                <nota>7/10</nota>
+                <critica>Es el punto donde menos destaca el juego. El gameplay es muy simple y sigue un modelo cíclico donde el bucle jugable si se alarga mucho una partida puede ser repetitivo.</critica>
             </gameplay>
             <historia>
                 <rubrica>En esta categoría se califíca la narrativa del juego bajo mis gustos.</rubrica>
-                <nota></nota>
-                <critica></critica>
+                <nota>10/10</nota>
+                <critica>Una absoluta maravilla de historia, y aprovecha por completo el medio para contarla de una forma que un libro o serie nunca podrían.</critica>
             </historia>
-            <reseña-general></reseña-general>
+            <nota-general>9/10</nota-general>
+            <reseña-general>Pese a sus debilidades, este es uno de esos juegos que me hacen estar seguro que los videojuegos se pueden usar como medio artístico. Mi única pega con el juego es que no todo el mundo podrá disfrutarlo, ya que hace falta disfrutar de leer y tener una comprensión lectora decente.</reseña-general>
         </review>
     </entrada>
     <entrada id="E002">
@@ -44,21 +45,22 @@
             <graficos dimensiones="2D">
                 <rubrica>En esta categoría se califíca tanto la calidad gráfica y artistica del juego teniendo en cuenta la intención del desarrollador. Por ejemplo, en caso de que un juego aspire al realismo se evaluará eso, pero si un juego apsira a unos gráficos más artísticos, se evaluará como tal.</rubrica>
                 <imagen-graficos></imagen-graficos>
-                <nota></nota>
-                <critica></critica>
+                <nota>7/10</nota>
+                <critica>El apartado artistico y el diseño de personajes del juego es increible, pero al estar en beta aún quedan muchos placeholders y apartados donde los gráficos dejan que desear.</critica>
             </graficos>
             <gameplay>
                 <rubrica>En esta categoría se califícan cosas como la rejugabilidad del juego y el disfrute que tuve desde el inicio hasta el final, ignorando la historia y sus gráficos.</rubrica>
                 <imagen-gameplay></imagen-gameplay>
-                <nota></nota>
-                <critica></critica>
+                <nota>9/10</nota>
+                <critica>Un asombroso juego para los amantes de los Hero Shooter o los MOBA. Tiene muchísima profundidad y mi única pega es que capaz tiene demasiada.</critica>
             </gameplay>
             <historia>
                 <rubrica>En esta categoría se califíca la narrativa del juego bajo mis gustos.</rubrica>
-                <nota></nota>
-                <critica></critica>
+                <nota>7/10</nota>
+                <critica>Es un apartado que aún no esta lo suficientemente desarrollado. Pero tampoco es un juego que se centre en su historia ni sea importante para su fisfrute.</critica>
             </historia>
-            <reseña-general></reseña-general>
+            <nota-general>8/10</nota-general>
+            <reseña-general>Es importante recalcar que el juego aún esta en desarrollo temprano y su estado actual no refleja el final. Pero aún así es un juego que merece ser jugado en su estado actual y me ha dado ya más de 100 horas de diversion.</reseña-general>
         </review>
     </entrada>
     <entrada id="E003">
@@ -88,6 +90,7 @@
                 <nota></nota>
                 <critica></critica>
             </historia>
+            <nota-general>9/10</nota-general>
             <reseña-general></reseña-general>
         </review>
     </entrada>
@@ -118,6 +121,7 @@
                 <nota></nota>
                 <critica></critica>
             </historia>
+            <nota-general>9/10</nota-general>
             <reseña-general></reseña-general>
         </review>
     </entrada>
@@ -148,6 +152,7 @@
                 <nota></nota>
                 <critica></critica>
             </historia>
+            <nota-general>9/10</nota-general>
             <reseña-general></reseña-general>
         </review>
     </entrada>
@@ -178,6 +183,7 @@
                 <nota></nota>
                 <critica></critica>
             </historia>
+            <nota-general>9/10</nota-general>
             <reseña-general></reseña-general>
         </review>
     </entrada>
