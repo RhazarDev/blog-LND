@@ -3,19 +3,20 @@
     <resumen>Bienvenido/a al blog de reviews de libros de Rubén, donde voy a calificar las diferentes lecturas que me vaya terminando. Es importante recalcar que estas reseñas siguen mis opiniones subjetivas.</resumen>
     <entrada id="E001">
         <libro>
-            <imagen>https://openlibrary.org</imagen>
-            <titulo>El Señor de los Anillos: La Comunidad del Anillo</titulo>
-            <autor>J.R.R. Tolkien</autor>
-            <fecha_publicacion>1954</fecha_publicacion>
+            <imagen>https://m.media-amazon.com/images/I/81tCiqG8KCL._AC_UF1000,1000_QL80_.jpg</imagen>
+            <titulo>El Nombre del Viento (Edicion del 10º aniversario)</titulo>
+            <autor>Patrick Rothfus</autor>
+            <fecha_publicacion>2007</fecha_publicacion>
             <precio moneda="EUR">20.95</precio>
             <genero>Fantasía épica</genero>
         </libro>
         <review>
             <edicion formato="Tapa dura">
                 <rubrica>En esta categoría se califica tanto la calidad física de la edición, maquetación e ilustraciones teniendo en cuenta la intención de la editorial. Por ejemplo, si es una edición coleccionista se evaluará el cuidado estético, y si es de bolsillo, su comodidad de lectura.</rubrica>
-                <imagen-edicion></imagen-edicion>
-                <nota>8/10</nota>
-                <critica>La edición tiene una portada y mapas increíbles, pero la letra es algo pequeña y resulta pesado de sostener.</critica>
+                <imagen-edicion>https://m.media-amazon.com/images/I/917h27nYxFL._AC_UF1000,1000_QL80_.jpg</imagen-edicion>
+                <editorial>PLAZA &amp; JANÉS</editorial>
+                <nota>9/10</nota>
+                <critica>La edición tiene una portada y mapas increíbles, con una ilustración preciosa y una muy buena traducción</critica>
             </edicion>
             <ritmo>
                 <rubrica>En esta categoría se califican cosas como la fluidez de la lectura, qué tanto engancha y el disfrute que tuve desde el inicio hasta el final, ignorando la trama general y la edición.</rubrica>
@@ -25,11 +26,11 @@
             </ritmo>
             <historia>
                 <rubrica>En esta categoría se califica la narrativa, construcción de mundo y personajes bajo mis gustos.</rubrica>
-                <nota>10/10</nota>
-                <critica>Una absoluta maravilla de historia, y aprovecha por completo la literatura para construir un mundo tan vivo que ninguna película podría igualar.</critica>
+                <nota>8/10</nota>
+                <critica>Aunque tiene sus puntos debiles, a mi parecer es una gran historia, con un worldbuilding increíble y aprovecha por completo la literatura para construir un mundo que se siente vivo.</critica>
             </historia>
             <nota-general>9/10</nota-general>
-            <reseña-general>Pese a su inicio lento, este es uno de esos libros que me hacen estar seguro de que la fantasía es un arte mayor. Mi única pega con el libro es que no todo el mundo podrá disfrutarlo, ya que hace falta paciencia y disfrutar de la lectura pausada.</reseña-general>
+            <reseña-general>Pese a su inicio lento, este es uno de esos libros que me hizo engancharme a la fantasía y querer leer más cosas del género. Mi únicas pegas con el libro son que tiene un inicio muy lento, y a veces se nota que el autor se proyecta en el protagonista. Otra crítica a destacar es que practicamente todos los personajes femeninos se reducen a intereses amorosos y tienen poco desarrollo sin el protagonista.</reseña-general>
         </review>
     </entrada>
     <entrada id="E002">
