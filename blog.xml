@@ -1,92 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blog>
-    <resumen>Bienvenido/a al blog de reviews de videojuegos de Rubén, donde voy a calíficar los diferentes juegos que me vaya pasando. Es importante recalcar que estas reseñas siguen mis opiniones subjetivas.</resumen>
+    <resumen>Bienvenido/a al blog de reviews de libros de Rubén, donde voy a calificar las diferentes lecturas que me vaya terminando. Es importante recalcar que estas reseñas siguen mis opiniones subjetivas.</resumen>
     <entrada id="E001">
-        <videojuego>
-            <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1785424341</imagen>
-            <titulo>Outer Wilds</titulo>
-            <developer>Mobius Digital</developer>
-            <fecha_lanzamiento>2019</fecha_lanzamiento>
-            <precio moneda="EUR">22.99</precio>
-            <genero>Aventura</genero>
-        </videojuego>
+        <libro>
+            <imagen>https://openlibrary.org</imagen>
+            <titulo>El Señor de los Anillos: La Comunidad del Anillo</titulo>
+            <autor>J.R.R. Tolkien</autor>
+            <fecha_publicacion>1954</fecha_publicacion>
+            <precio moneda="EUR">20.95</precio>
+            <genero>Fantasía épica</genero>
+        </libro>
         <review>
-            <graficos dimensiones="2D">
-                <rubrica>En esta categoría se califíca tanto la calidad gráfica y artistica del juego teniendo en cuenta la intención del desarrollador. Por ejemplo, en caso de que un juego aspire al realismo se evaluará eso, pero si un juego apsira a unos gráficos más artísticos, se evaluará como tal.</rubrica>
-                <imagen-graficos></imagen-graficos>
+            <edicion formato="Tapa dura">
+                <rubrica>En esta categoría se califica tanto la calidad física de la edición, maquetación e ilustraciones teniendo en cuenta la intención de la editorial. Por ejemplo, si es una edición coleccionista se evaluará el cuidado estético, y si es de bolsillo, su comodidad de lectura.</rubrica>
+                <imagen-edicion></imagen-edicion>
                 <nota>8/10</nota>
-                <critica>El juego tiene un apartado artístico increíble, pero los gráficos dejan algo que desear.</critica>
-            </graficos>
-            <gameplay>
-                <rubrica>En esta categoría se califícan cosas como la rejugabilidad del juego y el disfrute que tuve desde el inicio hasta el final, ignorando la historia y sus gráficos.</rubrica>
-                <imagen-gameplay></imagen-gameplay>
+                <critica>La edición tiene una portada y mapas increíbles, pero la letra es algo pequeña y resulta pesado de sostener.</critica>
+            </edicion>
+            <ritmo>
+                <rubrica>En esta categoría se califican cosas como la fluidez de la lectura, qué tanto engancha y el disfrute que tuve desde el inicio hasta el final, ignorando la trama general y la edición.</rubrica>
+                <imagen-paginas></imagen-paginas>
                 <nota>7/10</nota>
-                <critica>Es el punto donde menos destaca el juego. El gameplay es muy simple y sigue un modelo cíclico donde el bucle jugable si se alarga mucho una partida puede ser repetitivo.</critica>
-            </gameplay>
+                <critica>Es el punto donde menos destaca el libro. El ritmo inicial es muy lento y se detiene demasiado en descripciones y canciones que pueden hacerse repetitivas.</critica>
+            </ritmo>
             <historia>
-                <rubrica>En esta categoría se califíca la narrativa del juego bajo mis gustos.</rubrica>
+                <rubrica>En esta categoría se califica la narrativa, construcción de mundo y personajes bajo mis gustos.</rubrica>
                 <nota>10/10</nota>
-                <critica>Una absoluta maravilla de historia, y aprovecha por completo el medio para contarla de una forma que un libro o serie nunca podrían.</critica>
+                <critica>Una absoluta maravilla de historia, y aprovecha por completo la literatura para construir un mundo tan vivo que ninguna película podría igualar.</critica>
             </historia>
             <nota-general>9/10</nota-general>
-            <reseña-general>Pese a sus debilidades, este es uno de esos juegos que me hacen estar seguro que los videojuegos se pueden usar como medio artístico. Mi única pega con el juego es que no todo el mundo podrá disfrutarlo, ya que hace falta disfrutar de leer y tener una comprensión lectora decente.</reseña-general>
+            <reseña-general>Pese a su inicio lento, este es uno de esos libros que me hacen estar seguro de que la fantasía es un arte mayor. Mi única pega con el libro es que no todo el mundo podrá disfrutarlo, ya que hace falta paciencia y disfrutar de la lectura pausada.</reseña-general>
         </review>
     </entrada>
     <entrada id="E002">
-        <videojuego>
-            <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1422450/aa249c5e8cc8f90941bd1dbdc311773cd1afe065/header.jpg?t=1790716179</imagen>
-            <titulo>Deadlock</titulo>
-            <developer>Valve</developer>
-            <fecha_lanzamiento>Por confirmarse</fecha_lanzamiento>
-            <precio moneda="USD">Free to play</precio>
-            <genero>MOBA</genero>
-        </videojuego>
+        <libro>
+            <imagen>https://openlibrary.org</imagen>
+            <titulo>El camino de los reyes</titulo>
+            <autor>Brandon Sanderson</autor>
+            <fecha_publicacion>2010</fecha_publicacion>
+            <precio moneda="EUR">34.90</precio>
+            <genero>Fantasía</genero>
+        </libro>
         <review>
-            <graficos dimensiones="2D">
-                <rubrica>En esta categoría se califíca tanto la calidad gráfica y artistica del juego teniendo en cuenta la intención del desarrollador. Por ejemplo, en caso de que un juego aspire al realismo se evaluará eso, pero si un juego apsira a unos gráficos más artísticos, se evaluará como tal.</rubrica>
-                <imagen-graficos></imagen-graficos>
-                <nota>7/10</nota>
-                <critica>El apartado artistico y el diseño de personajes del juego es increible, pero al estar en beta aún quedan muchos placeholders y apartados donde los gráficos dejan que desear.</critica>
-            </graficos>
-            <gameplay>
-                <rubrica>En esta categoría se califícan cosas como la rejugabilidad del juego y el disfrute que tuve desde el inicio hasta el final, ignorando la historia y sus gráficos.</rubrica>
-                <imagen-gameplay></imagen-gameplay>
+            <edicion formato="Tapa dura">
+                <rubrica>En esta categoría se califica tanto la calidad física de la edición, maquetación e ilustraciones teniendo en cuenta la intención de la editorial. Por ejemplo, si es una edición coleccionista se evaluará el cuidado estético, y si es de bolsillo, su comodidad de lectura.</rubrica>
+                <imagen-edicion></imagen-edicion>
                 <nota>9/10</nota>
-                <critica>Un asombroso juego para los amantes de los Hero Shooter o los MOBA. Tiene muchísima profundidad y mi única pega es que capaz tiene demasiada.</critica>
-            </gameplay>
+                <critica>Las ilustraciones interiores y los bocetos del mundo son increíbles, aunque al tener más de 1200 páginas el lomo sufre un poco con el uso.</critica>
+            </edicion>
+            <ritmo>
+                <rubrica>En esta categoría se califican cosas como la fluidez de la lectura, qué tanto engancha y el disfrute que tuve desde el inicio hasta el final, ignorando la trama general y la edición.</rubrica>
+                <imagen-paginas></imagen-paginas>
+                <nota>9/10</nota>
+                <critica>Un asombroso libro para los amantes de la fantasía con sistemas de magia complejos. Tiene muchísima profundidad y mi única pega es que al principio abruma con tantos términos nuevos.</critica>
+            </ritmo>
             <historia>
-                <rubrica>En esta categoría se califíca la narrativa del juego bajo mis gustos.</rubrica>
-                <nota>7/10</nota>
-                <critica>Es un apartado que aún no esta lo suficientemente desarrollado. Pero tampoco es un juego que se centre en su historia ni sea importante para su fisfrute.</critica>
+                <rubrica>En esta categoría se califica la narrativa, construcción de mundo y personajes bajo mis gustos.</rubrica>
+                <nota>8/10</nota>
+                <critica>Al ser el primer libro de una saga de diez, muchas tramas quedan apenas planteadas. Pero los arcos de los protagonistas principales son espectaculares.</critica>
             </historia>
-            <nota-general>8/10</nota-general>
-            <reseña-general>Es importante recalcar que el juego aún esta en desarrollo temprano y su estado actual no refleja el final. Pero aún así es un juego que merece ser jugado en su estado actual y me ha dado ya más de 100 horas de diversion.</reseña-general>
+            <nota-general>9/10</nota-general>
+            <reseña-general>Es importante recalcar que este libro es solo la introducción a una saga gigantesca. Pero aun así es una lectura que merece muchísimo la pena y me ha dado decenas de horas de inmersión total.</reseña-general>
         </review>
     </entrada>
     <entrada id="E003">
-        <videojuego>
-            <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961</imagen>
-            <titulo>Red Dead Redemption 2</titulo>
-            <developer>Rockstar</developer>
-            <fecha_lanzamiento>2018</fecha_lanzamiento>
-            <precio moneda="EUR">59.99</precio>
-            <genero>Acción</genero>
-        </videojuego>
+        <libro>
+            <imagen>https://openlibrary.org</imagen>
+            <titulo>1984</titulo>
+            <autor>George Orwell</autor>
+            <fecha_publicacion>1949</fecha_publicacion>
+            <precio moneda="EUR">11.95</precio>
+            <genero>Ciencia ficción distópica</genero>
+        </libro>
         <review>
-            <graficos dimensiones="2D">
-                <rubrica>En esta categoría se califíca tanto la calidad gráfica y artistica del juego teniendo en cuenta la intención del desarrollador. Por ejemplo, en caso de que un juego aspire al realismo se evaluará eso, pero si un juego apsira a unos gráficos más artísticos, se evaluará como tal.</rubrica>
-                <imagen-graficos></imagen-graficos>
+            <edicion formato="Bolsillo">
+                <rubrica>En esta categoría se califica tanto la calidad física de la edición, maquetación e ilustraciones teniendo en cuenta la intención de la editorial. Por ejemplo, si es una edición coleccionista se evaluará el cuidado estético, y si es de bolsillo, su comodidad de lectura.</rubrica>
+                <imagen-edicion></imagen-edicion>
                 <nota></nota>
                 <critica></critica>
-            </graficos>
-            <gameplay>
-                <rubrica>En esta categoría se califícan cosas como la rejugabilidad del juego y el disfrute que tuve desde el inicio hasta el final, ignorando la historia y sus gráficos.</rubrica>
-                <imagen-gameplay></imagen-gameplay>
+            </edicion>
+            <ritmo>
+                <rubrica>En esta categoría se califican cosas como la fluidez de la lectura, qué tanto engancha y el disfrute que tuve desde el inicio hasta el final, ignorando la trama general y la edición.</rubrica>
+                <imagen-paginas></imagen-paginas>
                 <nota></nota>
                 <critica></critica>
-            </gameplay>
+            </ritmo>
             <historia>
-                <rubrica>En esta categoría se califíca la narrativa del juego bajo mis gustos.</rubrica>
+                <rubrica>En esta categoría se califica la narrativa, construcción de mundo y personajes bajo mis gustos.</rubrica>
                 <nota></nota>
                 <critica></critica>
             </historia>
@@ -95,29 +95,29 @@
         </review>
     </entrada>
     <entrada id="E004">
-        <videojuego>
-            <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684</imagen>
-            <titulo>Hollow Knight</titulo>
-            <developer>Team Cherry</developer>
-            <fecha_lanzamiento>2017</fecha_lanzamiento>
-            <precio moneda="EUR">14.79</precio>
-            <genero>Metroidvania</genero>
-        </videojuego>
+        <libro>
+            <imagen>https://openlibrary.org</imagen>
+            <titulo>La sombra del viento</titulo>
+            <autor>Carlos Ruiz Zafón</autor>
+            <fecha_publicacion>2001</fecha_publicacion>
+            <precio moneda="EUR">19.90</precio>
+            <genero>Misterio</genero>
+        </libro>
         <review>
-            <graficos dimensiones="2D">
-                <rubrica>En esta categoría se califíca tanto la calidad gráfica y artistica del juego teniendo en cuenta la intención del desarrollador. Por ejemplo, en caso de que un juego aspire al realismo se evaluará eso, pero si un juego apsira a unos gráficos más artísticos, se evaluará como tal.</rubrica>
-                <imagen-graficos></imagen-graficos>
+            <edicion formato="Tapa blanda">
+                <rubrica>En esta categoría se califica tanto la calidad física de la edición, maquetación e ilustraciones teniendo en cuenta la intención de la editorial. Por ejemplo, si es una edición coleccionista se evaluará el cuidado estético, y si es de bolsillo, su comodidad de lectura.</rubrica>
+                <imagen-edicion></imagen-edicion>
                 <nota></nota>
                 <critica></critica>
-            </graficos>
-            <gameplay>
-                <rubrica>En esta categoría se califícan cosas como la rejugabilidad del juego y el disfrute que tuve desde el inicio hasta el final, ignorando la historia y sus gráficos.</rubrica>
-                <imagen-gameplay></imagen-gameplay>
+            </edicion>
+            <ritmo>
+                <rubrica>En esta categoría se califican cosas como la fluidez de la lectura, qué tanto engancha y el disfrute que tuve desde el inicio hasta el final, ignorando la trama general y la edición.</rubrica>
+                <imagen-paginas></imagen-paginas>
                 <nota></nota>
                 <critica></critica>
-            </gameplay>
+            </ritmo>
             <historia>
-                <rubrica>En esta categoría se califíca la narrativa del juego bajo mis gustos.</rubrica>
+                <rubrica>En esta categoría se califica la narrativa, construcción de mundo y personajes bajo mis gustos.</rubrica>
                 <nota></nota>
                 <critica></critica>
             </historia>
@@ -126,29 +126,29 @@
         </review>
     </entrada>
     <entrada id="E005">
-        <videojuego>
-            <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2121980/header.jpg?t=1735612860</imagen>
-            <titulo>Void Stranger</titulo>
-            <developer>System Erasure</developer>
-            <fecha_lanzamiento>2023</fecha_lanzamiento>
-            <precio moneda="EUR">11.79</precio>
-            <genero>Puzles</genero>
-        </videojuego>
+        <libro>
+            <imagen>https://openlibrary.org</imagen>
+            <titulo>Cien años de soledad</titulo>
+            <autor>Gabriel García Márquez</autor>
+            <fecha_publicacion>1967</fecha_publicacion>
+            <precio moneda="EUR">14.95</precio>
+            <genero>Realismo mágico</genero>
+        </libro>
         <review>
-            <graficos dimensiones="2D">
-                <rubrica>En esta categoría se califíca tanto la calidad gráfica y artistica del juego teniendo en cuenta la intención del desarrollador. Por ejemplo, en caso de que un juego aspire al realismo se evaluará eso, pero si un juego apsira a unos gráficos más artísticos, se evaluará como tal.</rubrica>
-                <imagen-graficos></imagen-graficos>
+            <edicion formato="Bolsillo">
+                <rubrica>En esta categoría se califica tanto la calidad física de la edición, maquetación e ilustraciones teniendo en cuenta la intención de la editorial. Por ejemplo, si es una edición coleccionista se evaluará el cuidado estético, y si es de bolsillo, su comodidad de lectura.</rubrica>
+                <imagen-edicion></imagen-edicion>
                 <nota></nota>
                 <critica></critica>
-            </graficos>
-            <gameplay>
-                <rubrica>En esta categoría se califícan cosas como la rejugabilidad del juego y el disfrute que tuve desde el inicio hasta el final, ignorando la historia y sus gráficos.</rubrica>
-                <imagen-gameplay></imagen-gameplay>
+            </edicion>
+            <ritmo>
+                <rubrica>En esta categoría se califican cosas como la fluidez de la lectura, qué tanto engancha y el disfrute que tuve desde el inicio hasta el final, ignorando la trama general y la edición.</rubrica>
+                <imagen-paginas></imagen-paginas>
                 <nota></nota>
                 <critica></critica>
-            </gameplay>
+            </ritmo>
             <historia>
-                <rubrica>En esta categoría se califíca la narrativa del juego bajo mis gustos.</rubrica>
+                <rubrica>En esta categoría se califica la narrativa, construcción de mundo y personajes bajo mis gustos.</rubrica>
                 <nota></nota>
                 <critica></critica>
             </historia>
@@ -157,29 +157,29 @@
         </review>
     </entrada>
     <entrada id="E006">
-        <videojuego>
-            <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1785424341</imagen>
-            <titulo>Outer Wilds</titulo>
-            <developer>Mobius Digital</developer>
-            <fecha_lanzamiento>2019</fecha_lanzamiento>
-            <precio moneda="EUR">22.99</precio>
-            <genero>Aventura</genero>
-        </videojuego>
+        <libro>
+            <imagen>https://openlibrary.org</imagen>
+            <titulo>El nombre del viento</titulo>
+            <autor>Gabriel García Márquez</autor>
+            <fecha_publicacion>1967</fecha_publicacion>
+            <precio moneda="EUR">14.95</precio>
+            <genero>Realismo mágico</genero>
+        </libro>
         <review>
-            <graficos dimensiones="2D">
-                <rubrica>En esta categoría se califíca tanto la calidad gráfica y artistica del juego teniendo en cuenta la intención del desarrollador. Por ejemplo, en caso de que un juego aspire al realismo se evaluará eso, pero si un juego apsira a unos gráficos más artísticos, se evaluará como tal.</rubrica>
-                <imagen-graficos></imagen-graficos>
+            <edicion formato="Bolsillo">
+                <rubrica>En esta categoría se califica tanto la calidad física de la edición, maquetación e ilustraciones teniendo en cuenta la intención de la editorial. Por ejemplo, si es una edición coleccionista se evaluará el cuidado estético, y si es de bolsillo, su comodidad de lectura.</rubrica>
+                <imagen-edicion></imagen-edicion>
                 <nota></nota>
                 <critica></critica>
-            </graficos>
-            <gameplay>
-                <rubrica>En esta categoría se califícan cosas como la rejugabilidad del juego y el disfrute que tuve desde el inicio hasta el final, ignorando la historia y sus gráficos.</rubrica>
-                <imagen-gameplay></imagen-gameplay>
+            </edicion>
+            <ritmo>
+                <rubrica>En esta categoría se califican cosas como la fluidez de la lectura, qué tanto engancha y el disfrute que tuve desde el inicio hasta el final, ignorando la trama general y la edición.</rubrica>
+                <imagen-paginas></imagen-paginas>
                 <nota></nota>
                 <critica></critica>
-            </gameplay>
+            </ritmo>
             <historia>
-                <rubrica>En esta categoría se califíca la narrativa del juego bajo mis gustos.</rubrica>
+                <rubrica>En esta categoría se califica la narrativa, construcción de mundo y personajes bajo mis gustos.</rubrica>
                 <nota></nota>
                 <critica></critica>
             </historia>
@@ -207,47 +207,47 @@
 
 
 
-<!--
-<catalogo_videojuegos>
-    <videojuego id="V001">
-        <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1785424341</imagen>
-        <titulo>Outer Wilds</titulo>
-        <developer>Mobius Digital</developer>
-        <fecha_lanzamiento>2019</fecha_lanzamiento>
-        <precio moneda="EUR">22.99</precio>
-        <genero>Aventura</genero>
-    </videojuego>
-    <videojuego id="V002">
-        <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1422450/aa249c5e8cc8f90941bd1dbdc311773cd1afe065/header.jpg?t=1790716179</imagen>
-        <titulo>Deadlock</titulo>
-        <developer>Valve</developer>
-        <fecha_lanzamiento>Por confirmarse</fecha_lanzamiento>
-        <precio moneda="USD">Free to play</precio>
-        <genero>MOBA</genero>
-    </videojuego>
-    <videojuego id="V003">
-        <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961</imagen>
-        <titulo>Red Dead Redemption 2</titulo>
-        <developer>Rockstar</developer>
-        <fecha_lanzamiento>2018</fecha_lanzamiento>
-        <precio moneda="EUR">59.99</precio>
-        <genero>Acción</genero>
-    </videojuego>
-    <videojuego id="V004">
-        <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684</imagen>
-        <titulo>Hollow Knight</titulo>
-        <developer>Team Cherry</developer>
-        <fecha_lanzamiento>2017</fecha_lanzamiento>
-        <precio moneda="EUR">14.79</precio>
-        <genero>Metroidvania</genero>
-    </videojuego>
-    <videojuego id="V005">
-        <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2121980/header.jpg?t=1735612860</imagen>
-        <titulo>Void Stranger</titulo>
-        <developer>System Erasure</developer>
-        <fecha_lanzamiento>2023</fecha_lanzamiento>
-        <precio moneda="EUR">11.79</precio>
-        <genero>Puzles</genero>
-    </videojuego>
-</catalogo_videojuegos>
--->
+            <!--
+            <catalogo_videojuegos>
+                <videojuego id="V001">
+                    <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1785424341</imagen>
+                    <titulo>Outer Wilds</titulo>
+                    <developer>Mobius Digital</developer>
+                    <fecha_lanzamiento>2019</fecha_lanzamiento>
+                    <precio moneda="EUR">22.99</precio>
+                    <genero>Aventura</genero>
+                </videojuego>
+                <videojuego id="V002">
+                    <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1422450/aa249c5e8cc8f90941bd1dbdc311773cd1afe065/header.jpg?t=1790716179</imagen>
+                    <titulo>Deadlock</titulo>
+                    <developer>Valve</developer>
+                    <fecha_lanzamiento>Por confirmarse</fecha_lanzamiento>
+                    <precio moneda="USD">Free to play</precio>
+                    <genero>MOBA</genero>
+                </videojuego>
+                <videojuego id="V003">
+                    <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961</imagen>
+                    <titulo>Red Dead Redemption 2</titulo>
+                    <developer>Rockstar</developer>
+                    <fecha_lanzamiento>2018</fecha_lanzamiento>
+                    <precio moneda="EUR">59.99</precio>
+                    <genero>Acción</genero>
+                </videojuego>
+                <videojuego id="V004">
+                    <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684</imagen>
+                    <titulo>Hollow Knight</titulo>
+                    <developer>Team Cherry</developer>
+                    <fecha_lanzamiento>2017</fecha_lanzamiento>
+                    <precio moneda="EUR">14.79</precio>
+                    <genero>Metroidvania</genero>
+                </videojuego>
+                <videojuego id="V005">
+                    <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2121980/header.jpg?t=1735612860</imagen>
+                    <titulo>Void Stranger</titulo>
+                    <developer>System Erasure</developer>
+                    <fecha_lanzamiento>2023</fecha_lanzamiento>
+                    <precio moneda="EUR">11.79</precio>
+                    <genero>Puzles</genero>
+                </videojuego>
+            </catalogo_videojuegos>
+            -->
