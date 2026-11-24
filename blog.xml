@@ -8,7 +8,7 @@
             <autor>Patrick Rothfus</autor>
             <fecha_publicacion>2007</fecha_publicacion>
             <precio moneda="EUR">20.95</precio>
-            <genero>Fantasía épica</genero>
+            <genero>Fantasía</genero>
         </libro>
         <review>
             <edicion formato="Tapa dura">
@@ -20,7 +20,6 @@
             </edicion>
             <ritmo>
                 <rubrica>En esta categoría se califican cosas como la fluidez de la lectura, qué tanto engancha y el disfrute que tuve desde el inicio hasta el final, ignorando la trama general y la edición.</rubrica>
-                <imagen-paginas></imagen-paginas>
                 <nota>7/10</nota>
                 <critica>Es el punto donde menos destaca el libro. El ritmo inicial es muy lento y se detiene demasiado en descripciones y canciones que pueden hacerse repetitivas.</critica>
             </ritmo>
@@ -29,14 +28,14 @@
                 <nota>8/10</nota>
                 <critica>Aunque tiene sus puntos debiles, a mi parecer es una gran historia, con un worldbuilding increíble y aprovecha por completo la literatura para construir un mundo que se siente vivo.</critica>
             </historia>
-            <nota-general>9/10</nota-general>
+            <nota-general>8/10</nota-general>
             <reseña-general>Pese a su inicio lento, este es uno de esos libros que me hizo engancharme a la fantasía y querer leer más cosas del género. Mi únicas pegas con el libro son que tiene un inicio muy lento, y a veces se nota que el autor se proyecta en el protagonista. Otra crítica a destacar es que practicamente todos los personajes femeninos se reducen a intereses amorosos y tienen poco desarrollo sin el protagonista.</reseña-general>
         </review>
     </entrada>
     <entrada id="E002">
         <libro>
-            <imagen>https://openlibrary.org</imagen>
-            <titulo>El camino de los reyes</titulo>
+            <imagen>https://m.media-amazon.com/images/I/91jOSMOea0L._AC_UF1000,1000_QL80_.jpg</imagen>
+            <titulo>El Camino de los Reyes</titulo>
             <autor>Brandon Sanderson</autor>
             <fecha_publicacion>2010</fecha_publicacion>
             <precio moneda="EUR">34.90</precio>
@@ -45,7 +44,7 @@
         <review>
             <edicion formato="Tapa dura">
                 <rubrica>En esta categoría se califica tanto la calidad física de la edición, maquetación e ilustraciones teniendo en cuenta la intención de la editorial. Por ejemplo, si es una edición coleccionista se evaluará el cuidado estético, y si es de bolsillo, su comodidad de lectura.</rubrica>
-                <imagen-edicion></imagen-edicion>
+                <imagen-edicion>https://images.cdn1.buscalibre.com/fit-in/360x360/63/86/6386e75cfa549b5e43bf8030de60bbb8.jpg</imagen-edicion>
                 <nota>9/10</nota>
                 <critica>Las ilustraciones interiores y los bocetos del mundo son increíbles, aunque al tener más de 1200 páginas el lomo sufre un poco con el uso.</critica>
             </edicion>
@@ -53,7 +52,7 @@
                 <rubrica>En esta categoría se califican cosas como la fluidez de la lectura, qué tanto engancha y el disfrute que tuve desde el inicio hasta el final, ignorando la trama general y la edición.</rubrica>
                 <imagen-paginas></imagen-paginas>
                 <nota>9/10</nota>
-                <critica>Un asombroso libro para los amantes de la fantasía con sistemas de magia complejos. Tiene muchísima profundidad y mi única pega es que al principio abruma con tantos términos nuevos.</critica>
+                <critica>Tiene muchísima profundidad siendo precisamente mi pega que el inicio es un poco lento y te puedes sentir abrumado con tantos terminos nuevos que aprender.</critica>
             </ritmo>
             <historia>
                 <rubrica>En esta categoría se califica la narrativa, construcción de mundo y personajes bajo mis gustos.</rubrica>
@@ -61,12 +60,12 @@
                 <critica>Al ser el primer libro de una saga de diez, muchas tramas quedan apenas planteadas. Pero los arcos de los protagonistas principales son espectaculares.</critica>
             </historia>
             <nota-general>9/10</nota-general>
-            <reseña-general>Es importante recalcar que este libro es solo la introducción a una saga gigantesca. Pero aun así es una lectura que merece muchísimo la pena y me ha dado decenas de horas de inmersión total.</reseña-general>
+            <reseña-general>Es importante recalcar que este libro es solo la introducción a una saga enorme. Pero aun así es una lectura que merece muchísimo la pena y he disfrutado de sobremanera desde el inicio hasta el final el libro.</reseña-general>
         </review>
     </entrada>
     <entrada id="E003">
         <libro>
-            <imagen>https://openlibrary.org</imagen>
+            <imagen>https://imagessl4.casadellibro.com/a/l/t5/44/9780141036144.jpg</imagen>
             <titulo>1984</titulo>
             <autor>George Orwell</autor>
             <fecha_publicacion>1949</fecha_publicacion>
@@ -76,13 +75,12 @@
         <review>
             <edicion formato="Bolsillo">
                 <rubrica>En esta categoría se califica tanto la calidad física de la edición, maquetación e ilustraciones teniendo en cuenta la intención de la editorial. Por ejemplo, si es una edición coleccionista se evaluará el cuidado estético, y si es de bolsillo, su comodidad de lectura.</rubrica>
-                <imagen-edicion></imagen-edicion>
-                <nota></nota>
-                <critica></critica>
+                <imagen-edicion>https://www.akiracomics.com/Imagenes/PorIdentidad?identidad=7bdfc584-c0f9-4ec4-aa64-c6c2a9f9ab37</imagen-edicion>
+                <nota>7/10</nota>
+                <critica>Es una edición de bolsillo que cumple su función, pero tiene letra muy pequeña y es algo fragil.</critica>
             </edicion>
             <ritmo>
                 <rubrica>En esta categoría se califican cosas como la fluidez de la lectura, qué tanto engancha y el disfrute que tuve desde el inicio hasta el final, ignorando la trama general y la edición.</rubrica>
-                <imagen-paginas></imagen-paginas>
                 <nota></nota>
                 <critica></critica>
             </ritmo>
