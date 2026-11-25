@@ -45,12 +45,12 @@
             <edicion formato="Tapa dura">
                 <rubrica>En esta categoría se califica tanto la calidad física de la edición, maquetación e ilustraciones teniendo en cuenta la intención de la editorial. Por ejemplo, si es una edición coleccionista se evaluará el cuidado estético, y si es de bolsillo, su comodidad de lectura.</rubrica>
                 <imagen-edicion>https://images.cdn1.buscalibre.com/fit-in/360x360/63/86/6386e75cfa549b5e43bf8030de60bbb8.jpg</imagen-edicion>
+                <editorial>Nova</editorial>
                 <nota>9/10</nota>
                 <critica>Las ilustraciones interiores y los bocetos del mundo son increíbles, aunque al tener más de 1200 páginas el lomo sufre un poco con el uso.</critica>
             </edicion>
             <ritmo>
                 <rubrica>En esta categoría se califican cosas como la fluidez de la lectura, qué tanto engancha y el disfrute que tuve desde el inicio hasta el final, ignorando la trama general y la edición.</rubrica>
-                <imagen-paginas></imagen-paginas>
                 <nota>9/10</nota>
                 <critica>Tiene muchísima profundidad siendo precisamente mi pega que el inicio es un poco lento y te puedes sentir abrumado con tantos terminos nuevos que aprender.</critica>
             </ritmo>
@@ -76,83 +76,84 @@
             <edicion formato="Bolsillo">
                 <rubrica>En esta categoría se califica tanto la calidad física de la edición, maquetación e ilustraciones teniendo en cuenta la intención de la editorial. Por ejemplo, si es una edición coleccionista se evaluará el cuidado estético, y si es de bolsillo, su comodidad de lectura.</rubrica>
                 <imagen-edicion>https://www.akiracomics.com/Imagenes/PorIdentidad?identidad=7bdfc584-c0f9-4ec4-aa64-c6c2a9f9ab37</imagen-edicion>
+                <editorial>DeBolsillo</editorial>
                 <nota>7/10</nota>
                 <critica>Es una edición de bolsillo que cumple su función, pero tiene letra muy pequeña y es algo fragil.</critica>
             </edicion>
             <ritmo>
                 <rubrica>En esta categoría se califican cosas como la fluidez de la lectura, qué tanto engancha y el disfrute que tuve desde el inicio hasta el final, ignorando la trama general y la edición.</rubrica>
-                <nota></nota>
-                <critica></critica>
+                <nota>7/10</nota>
+                <critica>En general disfruté la obra y no tengo pegas generales que aportar, solo una específica. Y es que poco antes del final de la obra el libro pierde mucho ritmo y se pasa un tiempo largo así.</critica>
             </ritmo>
             <historia>
                 <rubrica>En esta categoría se califica la narrativa, construcción de mundo y personajes bajo mis gustos.</rubrica>
-                <nota></nota>
-                <critica></critica>
+                <nota>8/10</nota>
+                <critica>Sin duda una de las mejores distopías escritas que se ha convertido en un clásico. Mi mayor pega con el libro es que a veces tiene pasajes tecnicos que se hacen densos y podrían no ser necesarios en una obra de este estilo.</critica>
             </historia>
-            <nota-general>9/10</nota-general>
-            <reseña-general></reseña-general>
+            <nota-general>7/10</nota-general>
+            <reseña-general>Una obra única que me alegro de haber leído, a pesar de su brusquedad y momentos más densos.</reseña-general>
         </review>
     </entrada>
     <entrada id="E004">
         <libro>
-            <imagen>https://openlibrary.org</imagen>
-            <titulo>La sombra del viento</titulo>
-            <autor>Carlos Ruiz Zafón</autor>
-            <fecha_publicacion>2001</fecha_publicacion>
-            <precio moneda="EUR">19.90</precio>
-            <genero>Misterio</genero>
+            <imagen>https://m.media-amazon.com/images/I/61XPXUfaxoL._AC_UF1000,1000_QL80_.jpg</imagen>
+            <titulo>Siega</titulo>
+            <autor>Neal Shusterman</autor>
+            <fecha_publicacion>2017</fecha_publicacion>
+            <precio moneda="EUR">19.95</precio>
+            <genero>Ciencia ficción</genero>
         </libro>
         <review>
             <edicion formato="Tapa blanda">
                 <rubrica>En esta categoría se califica tanto la calidad física de la edición, maquetación e ilustraciones teniendo en cuenta la intención de la editorial. Por ejemplo, si es una edición coleccionista se evaluará el cuidado estético, y si es de bolsillo, su comodidad de lectura.</rubrica>
-                <imagen-edicion></imagen-edicion>
-                <nota></nota>
-                <critica></critica>
+                <imagen-edicion>https://cloud10.todocoleccion.online/libros-segunda-mano-ciencia-ficcion-fantasia/tc/2024/09/18/20/501579607.jpg</imagen-edicion>
+                <editorial>Nocturna Ediciones</editorial>
+                <nota>8/10</nota>
+                <critica>A pesar de ser de tapa blanda, la edición se siente de muy buena calidad, y tiene unos interludios con páginas negras y tinta blanca preciosos.</critica>
             </edicion>
             <ritmo>
                 <rubrica>En esta categoría se califican cosas como la fluidez de la lectura, qué tanto engancha y el disfrute que tuve desde el inicio hasta el final, ignorando la trama general y la edición.</rubrica>
-                <imagen-paginas></imagen-paginas>
-                <nota></nota>
-                <critica></critica>
+                <nota>8/10</nota>
+                <critica>Es una lectura facil y muy disfrutable, siendo capaz la única queja que a veces desvaría un poco y habla de personajes sin efecto en la trama, pero también añaden profundidad al mundo (Aunque rompe un poco el ritmo).</critica>
             </ritmo>
             <historia>
                 <rubrica>En esta categoría se califica la narrativa, construcción de mundo y personajes bajo mis gustos.</rubrica>
-                <nota></nota>
-                <critica></critica>
+                <nota>9/10</nota>
+                <critica>La construcción del mundo y los personajes son lo que más destacan en esta obra, siendo increiblemente originales. La trama a veces flaquea un poco pero al ser el primer libro de la saga se le perdona.</critica>
             </historia>
-            <nota-general>9/10</nota-general>
-            <reseña-general></reseña-general>
+            <nota-general>8/10</nota-general>
+            <reseña-general>Un libro increíblemente sólido, entretenido y que abre el camino al resto de la saga.</reseña-general>
         </review>
     </entrada>
     <entrada id="E005">
         <libro>
-            <imagen>https://openlibrary.org</imagen>
-            <titulo>Cien años de soledad</titulo>
-            <autor>Gabriel García Márquez</autor>
-            <fecha_publicacion>1967</fecha_publicacion>
+            <imagen>https://dam.elcorteingles.es/producto/www-001006523675459-00.jpg</imagen>
+            <titulo>En las montañas de la locura</titulo>
+            <autor>H.P. Lovecraft</autor>
+            <fecha_publicacion>1936</fecha_publicacion>
             <precio moneda="EUR">14.95</precio>
-            <genero>Realismo mágico</genero>
+            <genero>Horror cósmico</genero>
         </libro>
         <review>
-            <edicion formato="Bolsillo">
+            <edicion formato="Tapa dura">
                 <rubrica>En esta categoría se califica tanto la calidad física de la edición, maquetación e ilustraciones teniendo en cuenta la intención de la editorial. Por ejemplo, si es una edición coleccionista se evaluará el cuidado estético, y si es de bolsillo, su comodidad de lectura.</rubrica>
-                <imagen-edicion></imagen-edicion>
-                <nota></nota>
-                <critica></critica>
+                <imagen-edicion>https://literalenlinea.com/wp-content/uploads/2025/10/libro-en-las-montanas-de-la-locura-editorial-austral-9786287624320.webp</imagen-edicion>
+                <editorial>Austral</editorial>
+                <nota>9/10</nota>
+                <critica>Es una edición preciosa, pequeña y con buena letra. Mi unica queja es que el lomo del libro sufre con el tiempo y se deforma un poco.</critica>
             </edicion>
             <ritmo>
                 <rubrica>En esta categoría se califican cosas como la fluidez de la lectura, qué tanto engancha y el disfrute que tuve desde el inicio hasta el final, ignorando la trama general y la edición.</rubrica>
-                <imagen-paginas></imagen-paginas>
-                <nota></nota>
-                <critica></critica>
+                <nota>6/10</nota>
+                <critica>Es en lo que más flojea el libro y normalmente las obras de este autor con diferencia. El libro tarda en llegar a los momentos de tensión, y la historia se ranlentiza por priorizar el realismo en algunos casos.</critica>
             </ritmo>
             <historia>
                 <rubrica>En esta categoría se califica la narrativa, construcción de mundo y personajes bajo mis gustos.</rubrica>
-                <nota></nota>
-                <critica></critica>
+                <nota>7/10</nota>
+                <critica>Una historia sólida y disfrutable, a la que le cuesta arrancar. Personalmente, no me dio la inquietud o &apos;miedo&apos; que otras de las obras de Lovecraft me han dado.</critica>
             </historia>
-            <nota-general>9/10</nota-general>
-            <reseña-general></reseña-general>
+            <nota-general>7/10</nota-general>
+            <reseña-general>En resumen, un buen libro de un género que rara vez puedes encontrar fuera de las obras de este autor.</reseña-general>
         </review>
     </entrada>
     <entrada id="E006">
@@ -187,7 +188,6 @@
         </review>
     </entrada>
 </blog>
-
 
 
 
