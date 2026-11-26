@@ -158,96 +158,34 @@
     </entrada>
     <entrada id="E006">
         <libro>
-            <imagen>https://openlibrary.org</imagen>
-            <titulo>El nombre del viento</titulo>
-            <autor>Gabriel García Márquez</autor>
-            <fecha_publicacion>1967</fecha_publicacion>
-            <precio moneda="EUR">14.95</precio>
-            <genero>Realismo mágico</genero>
+            <imagen>https://jackmoreno.com/wp-content/uploads/2019/12/un-poco-de-odio.jpg</imagen>
+            <titulo>Un Poco de Odio</titulo>
+            <autor>Joe Abercrombie</autor>
+            <fecha_publicacion>2019</fecha_publicacion>
+            <precio moneda="EUR">26.50</precio>
+            <genero>Fantasía Oscura</genero>
         </libro>
         <review>
-            <edicion formato="Bolsillo">
+            <edicion formato="Tapa dura">
                 <rubrica>En esta categoría se califica tanto la calidad física de la edición, maquetación e ilustraciones teniendo en cuenta la intención de la editorial. Por ejemplo, si es una edición coleccionista se evaluará el cuidado estético, y si es de bolsillo, su comodidad de lectura.</rubrica>
-                <imagen-edicion></imagen-edicion>
-                <nota></nota>
-                <critica></critica>
+                <imagen-edicion>https://entreteclasytinta.com/wp-content/uploads/2023/07/Un-poco-de-odio-1024x795.jpg</imagen-edicion>
+                <editorial>RUNAS</editorial>
+                <nota>8/10</nota>
+                <critica>Una edicion preciosa, pero que sufre un poco con el tiempo.</critica>
             </edicion>
             <ritmo>
                 <rubrica>En esta categoría se califican cosas como la fluidez de la lectura, qué tanto engancha y el disfrute que tuve desde el inicio hasta el final, ignorando la trama general y la edición.</rubrica>
-                <imagen-paginas></imagen-paginas>
-                <nota></nota>
-                <critica></critica>
+                <nota>9/10</nota>
+                <critica>La historia se centra alrededor de 4 protagonistas, y va saltando entre personajes secundarios constantemente. Cada uno de estos personajes se sienten unicos y muestran al mundo desde un punto de vista completamente diferente, haciendo que rara vez te agote la historia.</critica>
             </ritmo>
             <historia>
                 <rubrica>En esta categoría se califica la narrativa, construcción de mundo y personajes bajo mis gustos.</rubrica>
-                <nota></nota>
-                <critica></critica>
+                <nota>8/10</nota>
+                <critica>Una construcción de mundo muy solida y una historia oscura que merece la pena leer.</critica>
             </historia>
-            <nota-general>9/10</nota-general>
-            <reseña-general></reseña-general>
+            <nota-general>8/10</nota-general>
+            <reseña-general>En general he disfrutado mucho de este libro y sobre todo de sus personajes. Es el comienzo de una trilogía y estoy seguro de que me la leeré entera.</reseña-general>
         </review>
     </entrada>
 <imagen-final>https://media.tenor.com/Qh7jh6fCHQYAAAAM/silly-dog.gif</imagen-final>
 </blog>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <!--
-            <catalogo_videojuegos>
-                <videojuego id="V001">
-                    <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1785424341</imagen>
-                    <titulo>Outer Wilds</titulo>
-                    <developer>Mobius Digital</developer>
-                    <fecha_lanzamiento>2019</fecha_lanzamiento>
-                    <precio moneda="EUR">22.99</precio>
-                    <genero>Aventura</genero>
-                </videojuego>
-                <videojuego id="V002">
-                    <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1422450/aa249c5e8cc8f90941bd1dbdc311773cd1afe065/header.jpg?t=1790716179</imagen>
-                    <titulo>Deadlock</titulo>
-                    <developer>Valve</developer>
-                    <fecha_lanzamiento>Por confirmarse</fecha_lanzamiento>
-                    <precio moneda="USD">Free to play</precio>
-                    <genero>MOBA</genero>
-                </videojuego>
-                <videojuego id="V003">
-                    <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961</imagen>
-                    <titulo>Red Dead Redemption 2</titulo>
-                    <developer>Rockstar</developer>
-                    <fecha_lanzamiento>2018</fecha_lanzamiento>
-                    <precio moneda="EUR">59.99</precio>
-                    <genero>Acción</genero>
-                </videojuego>
-                <videojuego id="V004">
-                    <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684</imagen>
-                    <titulo>Hollow Knight</titulo>
-                    <developer>Team Cherry</developer>
-                    <fecha_lanzamiento>2017</fecha_lanzamiento>
-                    <precio moneda="EUR">14.79</precio>
-                    <genero>Metroidvania</genero>
-                </videojuego>
-                <videojuego id="V005">
-                    <imagen>https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2121980/header.jpg?t=1735612860</imagen>
-                    <titulo>Void Stranger</titulo>
-                    <developer>System Erasure</developer>
-                    <fecha_lanzamiento>2023</fecha_lanzamiento>
-                    <precio moneda="EUR">11.79</precio>
-                    <genero>Puzles</genero>
-                </videojuego>
-            </catalogo_videojuegos>
-            -->
