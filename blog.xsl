@@ -2,8 +2,6 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
     <xsl:output method="html" encoding="UTF-8" indent="yes" doctype-system="about:legacy-compat"/>
-
-    <!-- Página principal -->
     <xsl:template match="/blog">
         <html>
             <head>
@@ -43,8 +41,6 @@
             </body>
         </html>
     </xsl:template>
-
-    <!-- Cada entrada -->
     <xsl:template match="entrada">
         <div class="entrada">
             <h2><xsl:value-of select="libro/titulo"/></h2>
